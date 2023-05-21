@@ -40,6 +40,6 @@ android {
 }
 
 dependencies {
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk19:$kotlin_version"
     api 'androidx.appcompat:appcompat:1.5.1'
 }
